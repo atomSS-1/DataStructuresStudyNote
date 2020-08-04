@@ -11,7 +11,7 @@ auto times = chrono::system_clock::now();
 auto millis = chrono::duration_cast<chrono::milliseconds>(times.time_since_epoch());
 
 int main(){
-
+//// get log of times
 
 	cout << millis.count() << endl;
 
