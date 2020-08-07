@@ -3,7 +3,7 @@
 #include <string>
 
 using namespace std;
-
+//declare functions
 int getter(int element);
 bool getter(bool element);
 float getter(float element);
@@ -20,6 +20,7 @@ int main(){
 
 	return 0;
 }
+//implement functions
 int getter(int element)
 {
 

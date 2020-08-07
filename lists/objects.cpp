@@ -2,7 +2,7 @@
 #include <string>
 
 
-
+// declare class
 class People{
 
 	public:
@@ -13,7 +13,7 @@ class People{
 
 int main(){
 
-
+// get People instance
 	People people;
 	people.num = 5000;
 	people.city = "seoul";
