@@ -88,3 +88,23 @@ print(p1.age) # 12
 
 #inheritance
 
+
+
+class Me(Person):
+    def __init__(self, myName):
+
+    
+        self.myName = myName
+
+
+
+me = Me("myname")
+
+
+print(me.myName)
+
+iter_list = iter(this_is_list)
+
+print(iter_list) # returns object
+
+print(next(iter_list)) # a
