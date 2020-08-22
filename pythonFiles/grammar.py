@@ -108,3 +108,11 @@ iter_list = iter(this_is_list)
 print(iter_list) # returns object
 
 print(next(iter_list)) # a
+
+
+i_dont_know  = [None] * 5
+
+print(i_dont_know)
+
+
+
