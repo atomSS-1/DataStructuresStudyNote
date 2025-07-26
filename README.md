@@ -1,7 +1,7 @@
 # DataStructuresStudyNote
 
 ## Projects will be done on C++
-### [study projects](https://github.com/k89jy/DataStructuresStudyNote/projects)
+### [study projects]([https://github.com/k89jy/DataStructuresStudyNote/projects](https://github.com/atomSS-1/DataStructuresStudyNote/issues))
 
 ## Reason Why I did this : Emphasie dataSturcture when programming.
 # Thoughts about data stuctures:
